@@ -12,7 +12,6 @@
 <meta name="revisit-after" content="2 days" />
 <link rel="shortcut icon" href="icon.png" />
 <link rel="STYLESHEET" type="text/css" href="style.css" media="all,handheld"/>
-<meta name="google-site-verification" content="vt7ckE--fExDsNwCOYItoDbLInpkJ_D0t4wvSCmHt1E" />
 </head><body>
 <div class="line"><font size="4px">Weight Loss Blogs</font><br/><small>Best Weight Loss Sites And Blogs You Must Follow In 2022</small></div>
 <div class="form"><b>Best blogs for weight loss news, diets, nutrition tips, recipes, and lifestyle advice from experts. Get weight loss pills, supplements, foods, programs, and more.</b></div>
